@@ -25,5 +25,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun blog pribadiku 
 
 #### My Project Repository:
 * https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT
-* https://github.com/ifulrahman/Co-ffee_MoistureDetection
-* https://github.com/ifulrahman/Co-ffee_BangkitCapstone
+* https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone
+* https://github.com/ifulrahman/Coffee_MoistureDetection

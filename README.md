@@ -17,6 +17,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun blog pribadiku 
 #### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/" target="blank"><img src="https://img.shields.io/badge/Muhammad_Syaiful_Rahman-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqbQsbrlWzhqQbtNQnBJsGPkzDJXLQKJjKrtnMLksZSfSWWgSLVzFDdxRnzCXRRNFMlgsB" target="blank"><img src="https://img.shields.io/badge/@syaifulmuhammad02@gmail.com-30302f?style=flat&logo=gmail" /></a>
     <a href="https://www.instagram.com/iful_rahman/"><img src="https://img.shields.io/badge/@iful_rahman-30302f?style=flat&logo=instagram" /></a>
     <a href="https://www.youtube.com/@muhammadsyaifulrahman1224/featured" target="blank"><img src="https://img.shields.io/badge/@Muhammad_Syaiful_Rahman-30302f?style=flat&logo=youtube" /></a>
     <a href="https://www.facebook.com/syaiful.iful.1800" target="blank"><img src="https://img.shields.io/badge/@Syaiful_Rahman-30302f?style=flat&logo=facebook" /></a>

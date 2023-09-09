@@ -14,7 +14,15 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun blog pribadiku 
 </a>
 </p>
 
-### Let's connect!
+#### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/" target="blank"><img src="https://img.shields.io/badge/Iful_Rahman-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/" target="blank"><img src="https://img.shields.io/badge/Muhammad_Syaiful_Rahman-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.instagram.com/iful_rahman/"><img src="https://img.shields.io/badge/@iful_rahman-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://www.youtube.com/@muhammadsyaifulrahman1224/featured" target="blank"><img src="https://img.shields.io/badge/@Muhammad_Syaiful_Rahman-30302f?style=flat&logo=youtube" /></a>
+    <a href="https://www.facebook.com/syaiful.iful.1800" target="blank"><img src="https://img.shields.io/badge/@Syaiful_Rahman-30302f?style=flat&logo=facebook" /></a>
 </p>
+
+#### My Project Repository:
+* https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT
+* https://github.com/ifulrahman/Co-ffee_MoistureDetection
+* https://github.com/ifulrahman/Co-ffee_BangkitCapstone

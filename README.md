@@ -4,7 +4,7 @@ My name is **Muhammad Syaiful Rahman**.
 
 I am **22 years old**. <br>
 
-If you're interested in getting to know me, please follow my personal blog account at pul.wordpress. 
+If you're interested in getting to know me, please follow my personal blog account at
 [pul.wordpress](https://pul257294364.wordpress.com/)
 
 <p align="left">

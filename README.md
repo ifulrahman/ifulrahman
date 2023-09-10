@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hi! 
 
-Perkenalkan nama saya **Muhammad Syaiful Rahman**.
+My name is **Muhammad Syaiful Rahman**.
 
-Umur Saya **20 Tahun**. <br>
+I am **22 years old**. <br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun blog pribadiku ya. 
+If you're interested in getting to know me, please follow my personal blog account at pul.wordpress. 
 [pul.wordpress](https://pul257294364.wordpress.com/)
 
 <p align="left">

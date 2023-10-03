@@ -8,8 +8,7 @@
 
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
-#
-
+---
 <i> My name is **Muhammad Syaiful Rahman**.
 
 I am **22 years old**. <br>
@@ -54,7 +53,7 @@ If you're interested in getting to know me, please follow my personal blog accou
 * https://github.com/ifulrahman/Coffee_MoistureDetection
 * https://github.com/ifulrahman/UAS-Robotic_Webot-Project
 
-##
+---
 
 <div align="center">
 		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00bfbf&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>

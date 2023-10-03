@@ -5,16 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
-<div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</div>
 
-My name is **Muhammad Syaiful Rahman**.
+<i> My name is **Muhammad Syaiful Rahman**.
 
 I am **22 years old**. <br>
 
 If you're interested in getting to know me, please follow my personal blog account at
 [pul.wordpress](https://pul257294364.wordpress.com/)
+
+</i>
 
 <p align="left">
 <a href="https://github.com/ifulrahman">
@@ -30,7 +30,7 @@ If you're interested in getting to know me, please follow my personal blog accou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Let's connect!
+### ☕ Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/" target="blank"><img src="https://img.shields.io/badge/Muhammad_Syaiful_Rahman-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqbQsbrlWzhqQbtNQnBJsGPkzDJXLQKJjKrtnMLksZSfSWWgSLVzFDdxRnzCXRRNFMlgsB" target="blank"><img src="https://img.shields.io/badge/@syaifulmuhammad02@gmail.com-30302f?style=flat&logo=gmail" /></a>
@@ -39,7 +39,7 @@ If you're interested in getting to know me, please follow my personal blog accou
     <a href="https://www.facebook.com/syaiful.iful.1800" target="blank"><img src="https://img.shields.io/badge/@Syaiful_Rahman-30302f?style=flat&logo=facebook" /></a>
 </p>
 
-## My Project Repository:
+###  🛠 My Project Repository:
 * https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT
 * https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone
 * https://github.com/ifulrahman/Coffee_MoistureDetection

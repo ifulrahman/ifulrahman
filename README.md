@@ -1,9 +1,9 @@
 # Hi!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0195dd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0195dd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
@@ -60,4 +60,4 @@ If you're interested in getting to know me, please follow my personal blog accou
 </div>
 
 <p align="right" > Created by <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/">ifulrahman</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=ifulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=ifulrahman&label=Profile%20views&color=0195dd&style=flat" alt="Ratheshan03" /> </p>

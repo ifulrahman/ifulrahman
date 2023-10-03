@@ -6,6 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
+<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+
 #
 
 <i> My name is **Muhammad Syaiful Rahman**.
@@ -16,8 +18,6 @@ If you're interested in getting to know me, please follow my personal blog accou
 [pul.wordpress](https://pul257294364.wordpress.com/)
 
 </i>
-
-<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
 ### 📊 GitHub Stats
 

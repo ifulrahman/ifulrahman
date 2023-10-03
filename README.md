@@ -32,6 +32,8 @@ If you're interested in getting to know me, please follow my personal blog accou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+##
+
 ### ☕ Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/" target="blank"><img src="https://img.shields.io/badge/Muhammad_Syaiful_Rahman-30302f?style=flat&logo=linkedin" /></a>
@@ -41,8 +43,17 @@ If you're interested in getting to know me, please follow my personal blog accou
     <a href="https://www.facebook.com/syaiful.iful.1800" target="blank"><img src="https://img.shields.io/badge/@Syaiful_Rahman-30302f?style=flat&logo=facebook" /></a>
 </p>
 
+##
+
 ###  🛠 My Project Repository:
 * https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT
 * https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone
 * https://github.com/ifulrahman/Coffee_MoistureDetection
 * https://github.com/ifulrahman/UAS-Robotic_Webot-Project
+
+##
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00bfbf&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>

@@ -56,7 +56,7 @@ If you're interested in getting to know me, please follow my personal blog accou
 ---
 
 <div align="center">
-		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00bfbf&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=0195dd&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
 </div>
 
 <p align="right" > Created by <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/">ifulrahman</a></p>

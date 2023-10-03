@@ -19,7 +19,7 @@ If you're interested in getting to know me, please follow my personal blog accou
 
 </i>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
 <a href="https://github.com/ifulrahman">

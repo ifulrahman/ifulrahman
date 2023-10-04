@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0195dd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0195dd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0195dd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)
 <br>
 
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />

@@ -14,7 +14,9 @@
 I am **22 years old**. <br>
 
 If you're interested in getting to know me, please follow my personal blog account at
-[pul.wordpress](https://pul257294364.wordpress.com/)
+[pul.wordpress](https://pul257294364.wordpress.com/) (coming soon)
+
+Visit my page : https://ifulrahman.github.io/
 
 </i>
 

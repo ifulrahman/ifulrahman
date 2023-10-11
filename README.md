@@ -56,21 +56,6 @@ Visit my page : https://ifulrahman.github.io/
 * https://github.com/ifulrahman/Coffee_MoistureDetection
 * https://github.com/ifulrahman/UAS-Robotic_Webot-Project
 
-<br>
-<div width="100%" align="center">
-  <a align="centre" href="https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT" title="Face Recognition"><img align="centre" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT&theme=react&border_color=61dafb&border_radius=10"></a><a align="centre" href="https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone" title="Coffee Moisture Detection"><img align="centre" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=Coffee_Moisture_BangkitCapstone&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="centre" href="https://github.com/ifulrahman/Coffee_MoistureDetection" title="Coffee Moisture Detection 2"><img align="centre" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=Coffee_MoistureDetection&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="centre" href="https://github.com/ifulrahman/UAS-Robotic_Webot-Project" title="Webot Simulation Project"><img align="centre" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=UAS-Robotic_Webot-Project&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/ifulrahman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 ---
 
 <div align="center">

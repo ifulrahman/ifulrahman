@@ -62,4 +62,4 @@ Visit my page : https://ifulrahman.github.io/
 </div>
 
 <p align="right" > Created by <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/">ifulrahman</a></p>
-<a href="https://visitor-badge.laobi.icu/badge?page_id=ifulrahman.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ifulrahman.visitor-badge&title=Visitors" align="right" alt="Visitors"></a> 
+<a href="https://visitor-badge.laobi.icu/badge?page_id=ifulrahman.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ifulrahman.visitor-badge&title=Visitors" align="right" alt="Visits"></a> 

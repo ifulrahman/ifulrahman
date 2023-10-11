@@ -29,9 +29,6 @@ Visit my page : https://ifulrahman.github.io/
 </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifulrahman&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
-</p>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,6 +55,21 @@ Visit my page : https://ifulrahman.github.io/
 * https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone
 * https://github.com/ifulrahman/Coffee_MoistureDetection
 * https://github.com/ifulrahman/UAS-Robotic_Webot-Project
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT" title="Face Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone" title="Coffee Moisture Detection"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=Coffee_Moisture_BangkitCapstone&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ifulrahman/Coffee_MoistureDetection" title="Coffee Moisture Detection 2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=Coffee_MoistureDetection&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ifulrahman/UAS-Robotic_Webot-Project" title="Webot Simulation Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ifulrahman&repo=UAS-Robotic_Webot-Project&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/ifulrahman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ---
 

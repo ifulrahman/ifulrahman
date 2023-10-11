@@ -29,7 +29,7 @@ Visit my page : https://ifulrahman.github.io/
 </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifulrahman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifulrahman&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
 </p>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

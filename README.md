@@ -22,10 +22,10 @@
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 💻 Crafting elegant and intuitive **web experiences**
-- 🎨 Inspired by minimalism, detail, and seamless design
-- 🚀 Always learning, always experimenting with **modern web tech**
-- 🌐 Building the future, one line of code at a time
+- Crafting elegant and intuitive **web experiences**
+- Inspired by minimalism, detail, and seamless design
+- Always learning, always experimenting with **modern web tech**
+- Building the future, one line of code at a time
 
 <br clear="right"/>
 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/✨_ifulrahman.github.io-Visit_Now-0195dd?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" height="50"/>
   </a>
   
-  <br/><br/>
+  <br/>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
   

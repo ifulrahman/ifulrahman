@@ -1,62 +1,84 @@
-# Hi!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:0195dd&height=140&section=header&text=Muhammad%20Syaiful%20Rahman&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0195dd&height=120&section=header"/>
+<h3 align="center">🚀 Tech Enthusiast </h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0195dd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Muhammad+Syaiful+Rahman!;I'm+22+years+old;Be+Welcome!+:%29)
-<br>
+<p align="center">
+  <a href="https://ifulrahman.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-0195dd?style=for-the-badge&logoColor=white&labelColor=0f2027" alt="Portfolio"/>
+  </a>
+</p>
 
-<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 ---
-<i> My name is **Muhammad Syaiful Rahman**.
 
-I am **22 years old**. <br>
+### 🪄 About Me
 
-If you're interested in getting to know me, please follow my personal blog account at
-[pul.wordpress](https://pul257294364.wordpress.com/) (coming soon)
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Visit my page : https://ifulrahman.github.io/
+- 💻 Crafting elegant and intuitive **web experiences**
+- 🎨 Inspired by minimalism, detail, and seamless design
+- 🚀 Always learning, always experimenting with **modern web tech**
+- 🌐 Building the future, one line of code at a time
 
-</i>
+<br clear="right"/>
 
-## 📊 GitHub Stats
+---
 
-<p align="left">
-<a href="https://github.com/ifulrahman">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ifulrahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifulrahman&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+### 🌟 Featured Project
+
+<div align="center">
+  <a href="https://ifulrahman.github.io">
+    <img src="https://img.shields.io/badge/✨_ifulrahman.github.io-Visit_Now-0195dd?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" height="50"/>
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  
+  **My personal portfolio showcasing projects, skills, and creative work**
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://ifulrahman.github.io"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:syaifulmuhammad02@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman/"><img src="https://img.shields.io/badge/LinkedIn-0195dd?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/iful_rahman/"><img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@muhammadsyaifulrahman1224/featured"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-##
+---
 
-### ☕ Let's connect!
-<p>
-    <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/" target="blank"><img src="https://img.shields.io/badge/Muhammad_Syaiful_Rahman-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqbQsbrlWzhqQbtNQnBJsGPkzDJXLQKJjKrtnMLksZSfSWWgSLVzFDdxRnzCXRRNFMlgsB" target="blank"><img src="https://img.shields.io/badge/@syaifulmuhammad02@gmail.com-30302f?style=flat&logo=gmail" /></a>
-    <a href="https://www.instagram.com/iful_rahman/"><img src="https://img.shields.io/badge/@iful_rahman-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://www.youtube.com/@muhammadsyaifulrahman1224/featured" target="blank"><img src="https://img.shields.io/badge/@Muhammad_Syaiful_Rahman-30302f?style=flat&logo=youtube" /></a>
-    <a href="https://www.facebook.com/syaiful.iful.1800" target="blank"><img src="https://img.shields.io/badge/@Syaiful_Rahman-30302f?style=flat&logo=facebook" /></a>
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifulrahman&theme=radical&hide_border=true&background=0f2027&ring=0195dd&fire=0195dd&currStreakLabel=0195dd" />
 </p>
 
-##
+---
 
-###  🛠 My Project Repository:
-* https://github.com/ifulrahman/Sistem-Deteksi-Wajah-dan-Suhu-Untuk-Presensi-dan-Pengecekan-Suhu-Tubuh-Berbasis-IoT
-* https://github.com/ifulrahman/Coffee_Moisture_BangkitCapstone
-* https://github.com/ifulrahman/Coffee_MoistureDetection
-* https://github.com/ifulrahman/UAS-Robotic_Webot-Project
+### 📂 Explore More
 
-<h4 align="center">
-  <a href="https://github.com/ifulrahman?tab=repositories" title="Show Repositories">🔎 Show More Repository 🔍</a>
-</h4>
+<p align="center">
+  <a href="https://github.com/ifulrahman?tab=repositories">
+    <b>🔎 Browse My GitHub Repositories 🔍</b>
+  </a>
+</p>
 
 ---
 
 <div align="center">
-		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=0195dd&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=0195dd&size=28&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Check+out+ifulrahman.github.io+🚀;Let's+build+something+amazing!"/>
 </div>
 
-<p align="right" > Created by <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman-716069235/">ifulrahman</a></p>
-<a href="https://visitor-badge.laobi.icu/badge?page_id=ifulrahman.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ifulrahman.visitor-badge&title=Visitors" align="right" alt="Visits"></a> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0195dd,100:0f2027&height=120&section=footer"/>

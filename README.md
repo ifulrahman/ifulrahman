@@ -54,7 +54,7 @@
   <a href="mailto:syaifulmuhammad02@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-syaiful-rahman/"><img src="https://img.shields.io/badge/LinkedIn-0195dd?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/iful_rahman/"><img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@muhammadsyaifulrahman1224/featured"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="http://www.youtube.com/@ifulrahman05"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
